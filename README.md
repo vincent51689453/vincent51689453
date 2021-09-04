@@ -1,7 +1,7 @@
 ![image](https://github.com/vincent51689453/vincent51689453/blob/main/github_logo.PNG)
 # 👋 Hi Everyone 
 
-My name is VincentChan. I am an electronic engineer in Hong Kong and I am also a member of IET. Currently, I am working on robotics vision and deep learning research. Vision guided control system using pointcloud and depth camera is my main focus in the current research. Meanwhile, I am also an instructor of University. Therefore, you can also look for some teaching materials here as well.
+My name is Vincent Chan. I am an electronic engineer in Hong Kong and I am also a member of IET. Currently, I am working on robotics vision and deep learning research. Vision guided control system using pointcloud and depth camera is my main focus in the current research. Meanwhile, I am also an instructor of University. Therefore, you can also look for some teaching materials here as well.
 
 ## ⚡ Skills & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
