@@ -16,7 +16,7 @@ My name is Vincent Chan. I am an electronic engineer in Hong Kong and I am also 
 
 ## 💬 GitHub Stats
 <a href="https://github.com/vincent51689453/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincent51689453&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincent51689453&show_icons=true&theme=radical&count_private=true" />
 </a>
 <!--
 **vincent51689453/vincent51689453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
