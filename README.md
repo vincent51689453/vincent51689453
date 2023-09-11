@@ -1,7 +1,7 @@
 ![image](https://github.com/vincent51689453/vincent51689453/blob/main/github_logo.PNG)
 # 👋 Hi Everyone 
 
-I am a professional engineer specialized in automated testing, deep learning (computer vision) and robotic application. Besides I am a NVIDIA DLI instructor & member of IET. Also I am currently located in Toronto and reponsible for developing automated testing platform for RYSE Inc.
+I am a professional engineer (NVIDIA DLI Instructor & MIET) specialized in automated testing, deep learning (computer vision) and robotic application. Currently I am located in Toronto and reponsible for developing automated testing platform for RYSE Inc.
 
 ## ⚡ Skills & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
